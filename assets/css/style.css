@@ -16,8 +16,6 @@
   }
 }
 
-
-
 body {}
 
 .container {
@@ -39,10 +37,7 @@ body {}
   text-shadow: 1px 1px 1px black;
 }
 
-.daily {
-  background-color: white;
-  color: #88817c;
-  height: 10em;
-  border: 1px solid red;
-  margin-top: 1em;
+
+.bg-warning {
+  margin-left: 30px;
 }
