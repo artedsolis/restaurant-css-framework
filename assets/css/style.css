@@ -16,10 +16,33 @@
   }
 }
 
-body {
-  margin-top: 0.5em;
+
+
+body {}
+
+.container {
+  margin-top: 1em;
 }
 
-.display-4 {
+.row {
+  margin: 1em;
+}
+
+.jumbotron {
+  background-color: #88817c;
+}
+
+.display-4,
+.lead {
+  color: white;
   text-align: center;
+  text-shadow: 1px 1px 1px black;
+}
+
+.daily {
+  background-color: white;
+  color: #88817c;
+  height: 10em;
+  border: 1px solid red;
+  margin-top: 1em;
 }
