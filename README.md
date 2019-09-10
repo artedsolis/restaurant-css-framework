@@ -9,8 +9,9 @@ At the end of this challenge I should have improved my placement of elements wit
 ![Restaurant's Logo](https://github.com/artedsolis/restaurant-css-framework/blob/master/assets/img/logo.png)
 
 
-All the pictures used are royalty-free from:
-### [pixabay](https://pixabay.com).
+All the pictures used are from : 
+### [pixabay](https://pixabay.com) ,
+an image and video database without copyright. 
 
 This projet was made on solo and represents the first skecth of an inexistant Ramen's franchise  Restaurant;
 The projet was made between september the 5th and the 9th , mostly at Becode! 
