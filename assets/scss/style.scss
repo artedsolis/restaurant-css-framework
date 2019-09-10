@@ -36,6 +36,11 @@ nav {
 .list-group {
   margin-bottom: $main-spacing;
   font-family: $main-font;
+
+  .icon {
+    display: flex;
+    justify-content: space-between;
+  }
 }
 
 form {

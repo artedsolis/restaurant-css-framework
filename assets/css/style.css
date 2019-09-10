@@ -17,6 +17,9 @@ nav {
 .list-group {
   margin-bottom: 1em;
   font-family: "Roboto", sans-serif; }
+  .list-group .icon {
+    display: flex;
+    justify-content: space-between; }
 
 form {
   margin-top: 1em; }
