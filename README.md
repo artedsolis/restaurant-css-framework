@@ -1,9 +1,10 @@
 # restaurant-css-framework
-At the end of this challenge I should have improved my placement of elements with Bootstrap, for sure! 
+At the end of this challenge I should have improved my placement of elements with Bootstrap, for sure!
+
 [restaurant's home page](https://artedsolis.github.io/restaurant-css-framework/)
  
 Inline-style: 
-![Restaurant's Logo](https://github.com/artedsolis/restaurant-css-framework/blob/master/assets/img/logo.png"Logo created for de website")
+![Restaurant's Logo](https://github.com/artedsolis/restaurant-css-framework/blob/master/assets/img/logo.png)
 
 
 All the pictures used are royalty-free and all were founded on pixabay.
