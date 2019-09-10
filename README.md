@@ -18,5 +18,5 @@ The restaurant's name is inspired by a real one, tiny and cozy Japanese Ramen's 
 
 This web site consists in 5 main pages : Homepage, restaurant's menu, pictures, adresses and contact. It was mainly build on Bootstrap and the purpose was to build an easy homepage developping some bootstrap skills. However a SCSS stylesheet was included for further style changes. 
 
-Languages which were used: * HTML-CSS
-                           - Javascript (downloaded from bootstrap)
+Languages which were used: 1. HTML-CSS
+                           2. Javascript (downloaded from bootstrap)
