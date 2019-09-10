@@ -1,8 +1,24 @@
-.jumbotron {
-  /*background: $brand-color;
-  color: white;*/ }
+/* this colors are on testing 
+$brand-color:#BFC7BF;
+$accent-color:#e9ecef;
+$main-font-color:#434A43;*/
+body h4 {
+  font-family: "Roboto", sans-serif; }
+body p {
+  font-family: "Montserrat", sans-serif; }
 
-.nav-item {
-  color: white; }
+.jumbotron h2 {
+  font-family: "Roboto", sans-serif; }
+
+nav {
+  margin-top: 1em;
+  margin-bottom: 1em; }
+
+.list-group {
+  margin-bottom: 1em;
+  font-family: "Roboto", sans-serif; }
+
+form {
+  margin-top: 1em; }
 
 /*# sourceMappingURL=style.css.map */

@@ -1,13 +1,43 @@
+/* this colors are on testing 
 $brand-color:#BFC7BF;
-$accent-color:#454745;
-$main-font-color:#434A43;
+$accent-color:#e9ecef;
+$main-font-color:#434A43;*/
 
-.jumbotron {
-  /*background: $brand-color;
-  color: white;*/
+$main-spacing: 1em;
+$main-font:'Roboto',
+sans-serif;
+$secondary-font:'Montserrat',
+sans-serif;
+
+
+body {
+
+  h4 {
+    font-family: $main-font;
+  }
+
+  p {
+    font-family: $secondary-font;
+  }
 }
 
+.jumbotron {
 
-.nav-item {
-  color: white;
+  h2 {
+    font-family: $main-font;
+  }
+}
+
+nav {
+  margin-top: $main-spacing;
+  margin-bottom: $main-spacing;
+}
+
+.list-group {
+  margin-bottom: $main-spacing;
+  font-family: $main-font;
+}
+
+form {
+  margin-top: $main-spacing;
 }
